@@ -41,7 +41,7 @@ for(int i=0;i<3;i++){
 
 ## 4.:pineapple:Profile Photo
 
-[profile photo](https://github.com/Gudauu/SHUTONG_CSE_110/blob/page_info/selfie.jpg)
+[profile photo](/assets/images/selfie.jpg)
 
 >  *Yep this is me.*
 
@@ -52,7 +52,6 @@ for(int i=0;i<3;i++){
 *For more information please visit :* 
 
 * my github page :[Gudauu](https://github.com/Gudauu)
-* if that doesn't work try this one:[Gudauu person page](./settings/profile)
 
 * email: shw087@ucsd.edu / 19307130283@fudan.edu.cn
 * phone: (+1) 858-319-5939
