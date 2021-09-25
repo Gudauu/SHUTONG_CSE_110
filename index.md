@@ -41,7 +41,7 @@ for(int i=0;i<3;i++){
 
 ## 4.:pineapple:Profile Photo
 
-[profile photo](/assets/images/selfie.jpg)
+[profile photo](selfie.jpg)
 
 >  *Yep this is me.*
 
