@@ -2,8 +2,6 @@
 
 *The following are several sections talking about this page*.
 
-*Contact info at the [end](##5-​contact-info)* 
-
 ## 1.:cactus:Why am I here?
 
 > I'm here because my software engineering prof gave us an assignment guiding us through Markdown usage. 
@@ -43,10 +41,10 @@ for(int i=0;i<3;i++){
 
 ## 4.:pineapple:Profile Photo
 
-<img src="G:\Gudau\Pictures\Saved Pictures\杂七杂八素材\吴脑脑.jpg" alt="profile picture" style="zoom:33%;" />
-$$
-yep\ this\ is\ me
-$$
+[profile photo](https://github.com/Gudauu/SHUTONG_CSE_110/blob/page_info/selfie.jpg)
+
+>  *Yep this is me.*
+
 
 
 ## 5​ ​Contact info
