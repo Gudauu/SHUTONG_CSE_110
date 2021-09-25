@@ -38,6 +38,10 @@ for(int i=0;i<3;i++){
 > OK that's all I know about coding. 
 >
 > Also fond of Plants vs Zombies, Harry Potter, Gravity Falls, Taylor Swift, wild life and urban cities.
+>
+> ![hungrysnake](G:\School Work\大三上\CSE 110\Labs\git\SHUTONG_CSE_110\hungrysnake.jpg)
+>
+> oops I forgot HugrySnakes
 
 ## 4.:pineapple:Profile Photo
 
